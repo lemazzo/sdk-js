@@ -1,4 +1,5 @@
 # `BricksBuilder`.create(`brick`, `target`, `settings`)
+### This Brick is temporarily exclusive for **MLA (Argentina)** 🇦🇷
 
 Example without settings:
 
