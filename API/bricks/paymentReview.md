@@ -1,6 +1,6 @@
 ## `BricksBuilder`.create(`brick`, `target`, `settings`)
 
-### This feature is temporarily exclusive for **MLM (México)** 🇲🇽
+### This feature is temporarily exclusive for **MLM (México)** 🇲🇽 and **MLA (Argentina)** 🇦🇷
 
 #### Full example with **review and confirmation** steps:
 
@@ -32,6 +32,7 @@ mp.bricks().create("payment", "paymentBrick_container", {
         city: "<PAYER_CITY>",
         federalUnit: "<PAYER_FED_UNIT>",
         zipCode: "<ZIP_CODE>",
+        additionalInformation: "<ADDITIONAL_INFORMATION>",
       },
     },
     payer: {
